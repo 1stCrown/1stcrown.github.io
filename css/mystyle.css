@@ -118,7 +118,7 @@ justify-content: center;
 /* ---Home--- */
 
 body.Home-Page{
-background-image: url(../images/Home/Background1.png);
+background-image: url(../Images/Home/Background1.png);
 background-size: cover;
 minheight: 100vh;
 background-repeat: no-repeat;
@@ -170,7 +170,7 @@ border-radius: 12px;
 /* ---About--- */
 
 body.About-Page{
-background-image: url(../images/About/AboutBackground.png);
+background-image: url(../Images/About/AboutBackground.png);
 background-size: cover;
 minheight: 100vh;
 background-repeat: no-repeat;
